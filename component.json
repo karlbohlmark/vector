@@ -4,7 +4,9 @@
   "description": "Vector component",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "component/max": "*"
+  },
   "development": {},
   "license": "MIT",
   "scripts": [
